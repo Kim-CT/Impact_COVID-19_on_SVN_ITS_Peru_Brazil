@@ -5,4 +5,4 @@ Within each folder, please follow the scripts in numerical order. These scripts 
 
   ABOUT THIS WORK
   
-  Aim of this project: to assess the impact of the COVID-19 pandemic on the national and regional trends and the magnitude of    changes in SVN in Peru and Brazil from 2017 to 2021.
+  Aim of this project: to assess the impact of the COVID-19 pandemic on the national and regional trends and the magnitude of changes in SVN in Peru and Brazil from 2017 to 2021.
